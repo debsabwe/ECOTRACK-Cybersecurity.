@@ -1,6 +1,6 @@
-# ♻️ ECOTRACK — Smart Waste Management & Cybersecurity
+♻️ ECOTRACK — Smart Waste Management & Cybersecurity
 
-## 🎓 Présentation du projet
+ Présentation du projet
 
 ECOTRACK est un projet académique réalisé dans le cadre d'un **Master en Cybersécurité**.
 
